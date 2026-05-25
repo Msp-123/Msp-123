@@ -32,8 +32,10 @@ PII Detection
 Fraud Detection
 Model Explainability
 MLOps
+```
 
-📌 Featured Projects
+# 📌 Featured Projects
+
 🔹 Vehicle Insurance Claim Fraud Detection
 
 An end-to-end machine learning project for detecting suspicious vehicle insurance claims.
