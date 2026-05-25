@@ -86,4 +86,4 @@ Repository:
 📫 Connect With Me
 GitHub: github.com/Msp-123
 Medium: [medium.com/@mertsukrupehlivan](https://medium.com/@mertsukrupehlivan)
-LinkedIn: [Add your LinkedIn profile here](https://www.linkedin.com/in/mert-%C5%9F%C3%BCkr%C3%BC-pehlivan-073003103/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmAc3ZLryR0y1O8UbLGD3Ag%3D%3D)
+LinkedIn: (https://www.linkedin.com/in/mert-%C5%9F%C3%BCkr%C3%BC-pehlivan-073003103/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmAc3ZLryR0y1O8UbLGD3Ag%3D%3D)
