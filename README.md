@@ -80,7 +80,7 @@ Key topics:
 machine learning · classification · regression · eda · model evaluation
 
 Repository:
-[ML_PROJECTS](https://github.com/Msp-123/ML_PROJECTS?utm_source=chatgpt.com)
+[Machine_Learning_Projects](https://github.com/Msp-123/ML_PROJECTS?utm_source=chatgpt.com)
 
 
 📫 Connect With Me
