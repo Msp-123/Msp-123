@@ -46,7 +46,7 @@ Key topics:
 fraud detection · xgboost · imbalanced classification · shap · fastapi · machine learning
 
 Repository:
-vehicle-insurance-claim-fraud-detection
+[vehicle-insurance-claim-fraud-detection](https://github.com/Msp-123/ML_PROJECTS/tree/main/vehicle-insurance-claim-fraud-detection)
 
 🔹 Graph-RAG Chatbot
 
@@ -58,7 +58,7 @@ Key topics:
 rag · graph-rag · langchain · neo4j · fastapi · streamlit · docker
 
 Repository:
-graph-rag-chatbot
+[graph-rag-chatbot](https://github.com/Msp-123/graph-rag-chatbot?utm_source=chatgpt.com)
 
 🔹 PII Detection Service
 
@@ -70,7 +70,7 @@ Key topics:
 pii detection · data masking · fastapi · presidio · bert · privacy
 
 Repository:
-PII_Detection_Service
+[PII_Detection_Service](https://github.com/Msp-123/PII_Detection_Service?utm_source=chatgpt.com)
 
 🔹 Machine Learning Projects
 
@@ -80,9 +80,7 @@ Key topics:
 machine learning · classification · regression · eda · model evaluation
 
 Repository:
-ML_PROJECTS
-
-
+[ML_PROJECTS](https://github.com/Msp-123/ML_PROJECTS?utm_source=chatgpt.com)
 
 
 📫 Connect With Me
