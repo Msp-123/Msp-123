@@ -20,7 +20,6 @@ I’m especially interested in projects that connect AI models with real busines
 
 ## 🧠 Main Areas of Interest
 
-```text
 - Machine Learning & Deep Learning
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
@@ -32,7 +31,7 @@ I’m especially interested in projects that connect AI models with real busines
 - Fraud Detection & Risk Analytics
 - Model Explainability & Responsible AI
 - MLOps & AI System Deployment
-```
+
 
 # 📌 Featured Projects
 
