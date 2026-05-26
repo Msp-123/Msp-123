@@ -21,17 +21,17 @@ I’m especially interested in projects that connect AI models with real busines
 ## 🧠 Main Areas of Interest
 
 ```text
-Machine Learning
-LLMs
-RAG
-Graph-RAG
-FastAPI
-Dataiku
-Document AI
-PII Detection
-Fraud Detection
-Model Explainability
-MLOps
+- Machine Learning & Deep Learning
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Graph-RAG & Knowledge Graphs
+- FastAPI & AI Backend Development
+- Dataiku & Enterprise AI Workflows
+- Document AI & Information Extraction
+- PII Detection & Data Masking
+- Fraud Detection & Risk Analytics
+- Model Explainability & Responsible AI
+- MLOps & AI System Deployment
 ```
 
 # 📌 Featured Projects
